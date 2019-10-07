@@ -1,0 +1,7 @@
+D:\DEV\C#\Practice\Print_Number_Triangle\Print_Number_Triangle\obj\Debug\Print_Number_Triangle.csprojAssemblyReference.cache
+D:\DEV\C#\Practice\Print_Number_Triangle\Print_Number_Triangle\obj\Debug\Print_Number_Triangle.csproj.CoreCompileInputs.cache
+D:\DEV\C#\Practice\Print_Number_Triangle\Print_Number_Triangle\bin\Debug\Print_Number_Triangle.exe.config
+D:\DEV\C#\Practice\Print_Number_Triangle\Print_Number_Triangle\bin\Debug\Print_Number_Triangle.exe
+D:\DEV\C#\Practice\Print_Number_Triangle\Print_Number_Triangle\bin\Debug\Print_Number_Triangle.pdb
+D:\DEV\C#\Practice\Print_Number_Triangle\Print_Number_Triangle\obj\Debug\Print_Number_Triangle.exe
+D:\DEV\C#\Practice\Print_Number_Triangle\Print_Number_Triangle\obj\Debug\Print_Number_Triangle.pdb
